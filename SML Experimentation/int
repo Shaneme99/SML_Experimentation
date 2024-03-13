@@ -1,0 +1,18 @@
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM sml.bat 
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM Copyright 2020 The Fellowship of SML/NJ (http://www.smlnj.org) 
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM All rights reserved. 
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM The standard driver for SML/NJ under the new runtime system 
+
+C:\Users\shane\Documents\Code\SML Experimentation>REM
+Standard ML of New Jersey (32-bit) v110.99.4 [built: Tue Aug 01 11:26:46 2023]
+!* unable to process 'test_hw1.smlval' (unknown extension 'smlval')
+!* unable to process 'pow' (unknown extension '<none>')
+!* unable to process '=' (unknown extension '<none>')
